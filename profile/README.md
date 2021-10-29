@@ -8,8 +8,8 @@ The development of mangal.io is supported by Compute Canada, the Canadian Founda
 
 We offer a RESTFUL API (at `https://mangal.io/api/v2/`) to access the datasets, networks, etc, stored in the database. The API can be accessed with Julia or R.
 
-- [Julia package documentation](https://docs.ecojulia.org/Mangal.jl/stable/)
-- [R package documentation](https://docs.ropensci.org/rmangal/)
+- [Julia package documentation](https://docs.ecojulia.org/Mangal.jl/stable/) - the Julia wrapper is part of the EcoJulia project
+- [R package documentation](https://docs.ropensci.org/rmangal/) - the R wrapper is part of the ROpenSci project
 
 ## How to contribute data?
 
