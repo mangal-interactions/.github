@@ -15,4 +15,4 @@ We offer a RESTFUL API (at `https://mangal.io/api/v2/`) to access the datasets, 
 
 We are in the process of developing templates for submission, via the [contribute](https://github.com/mangal-interactions/contribute) repository, to handle the data contribution process. *In order to facilitate the deposition of data, we will take care of formatting your raw data files*!
 
-Contributing to mangal.io does not require to create an account - if you already have an [ORCID ID](https://orcid.org/), you can simply visit <https://mangal.io/auth> to be registered in the database. 
+Contributing to mangal.io does not require to create an account - if you already have an [ORCID ID](https://orcid.org/), you can simply visit <https://mangal.io/auth> to be registered in the database. This will bring you to a text page, containing, notably, your *access token*. **Do not** share your access token with anyone!
